@@ -91,6 +91,6 @@ The **GaussianNB (optimized)** model was deployed for real-time activity classif
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/yourusername/medical-activity-recognition.git
-cd medical-activity-recognition
+git clone https://github.com/JosueT1212/Proyecto_Clasificacion.git
+cd Proyecto_Clasificacion
 pip install -r requirements.txt
